@@ -21,12 +21,15 @@ const Home = (props) => {
 };
 
 const Container = styled.div`
+max-width: 1128px;
+margin: auto;
 
 `;
 const Section = styled.section`
     min-height: 50px;
     padding: 16px 0;
     text-align: center;
+    
 `;
 const Layout = styled.div`
     display: grid;
