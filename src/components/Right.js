@@ -92,7 +92,7 @@ padding:0 20px;
         background-color:rgba(0,0,0,0.08);
     }
    
-    } 
+     
 
     .content{
         display: flex;
